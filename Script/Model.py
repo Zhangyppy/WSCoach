@@ -23,7 +23,7 @@ from faster_whisper import WhisperModel as fasterWhisper
 
 # class DeepgramModel():
 #     def __init__(self):
-#         self.DEEPGRAM_API_KEY = 'd2f62951d4eeda7337fce24fde3249d8286701d5'
+#         self.DEEPGRAM_API_KEY = ''
 #         self.deepgram = Deepgram(self.DEEPGRAM_API_KEY)
 #         self.text = ''
 
