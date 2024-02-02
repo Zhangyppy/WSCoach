@@ -1,7 +1,5 @@
 # WSCOACH
 
-there is the code developed for the paper **"Using Real-time Auditory Feedback for the Reduction of Unwanted Words in Daily Communication"**.
-
 ## Table of Contents
 
 - [WSCOACH](#wscoach)
